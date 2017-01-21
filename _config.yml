@@ -8,9 +8,9 @@ description:
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/analytics.jpg
+picture: assets/images/alison.jpeg
 
-url: https://alisonlipy.github.io
+url: https://alisonlipy.github.io/indigo
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
